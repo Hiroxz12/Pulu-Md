@@ -18,20 +18,20 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "BOTCAHX" //namabot kalian
-global.ownername= "Bot Whatsapp" //nama kalian
+global.botname = "Alokbotzty" //namabot kalian
+global.ownername= "Hiroo" //nama kalian
 global.myweb ="myblogxyz.netlify.com" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCCyEu6Ui3JmTON1P8BQydsA" //bebas asal jan hapus
 global.github = "https://github.com/BOTCAHX" //bebas
 global.email = "tioclkp02@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6281395861695" // nomor wa kalian
-global.ownernomerr = "+6282221792667" //nmr wa kalian
+global.ownernomer = "6285732267014" // nomor wa kalian
+global.ownernomerr = "+6285732267014" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6281395861695","6281395861695","6282221792667"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© BOTCAHX' //sticker wm ubah
+global.packname = '© Alokbotzty' //sticker wm ubah
 global.author = 'dibuat oleh bot kami' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
